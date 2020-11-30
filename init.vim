@@ -248,7 +248,7 @@ Plug 'numirias/semshi', { 'do': ':UpdateRemotePlugins', 'for' :['python', 'vim-p
 Plug 'tweekmonster/braceless.vim', { 'for' :['python', 'vim-plug'] }
 
 " R language 
-Plug 'jalvesq/Nvim-R',{'branch': 'stable'}
+Plug 'jalvesaq/Nvim-R', {'branch': 'stable'}
 
 " Flutter
 Plug 'dart-lang/dart-vim-plugin'
